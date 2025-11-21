@@ -17,14 +17,14 @@ function Hero() {
             CREATRIX DIGITAL
           </span>
           <h1 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-gray-900">
-            We craft bright, modern digital experiences
+            Мы создаём яркие, современные цифровые продукты
           </h1>
           <p className="mt-4 max-w-2xl text-gray-700 text-base sm:text-lg">
-            A product-focused studio blending strategy, design, and engineering to launch brands that stand out.
+            Мы занимаемся разработкой веб‑сайтов, мобильных приложений, CRM‑систем, а также игр — от идеи и дизайна до запуска и роста.
           </p>
           <div className="mt-8 flex items-center gap-3">
-            <a href="#contact" className="px-5 py-3 rounded-full bg-gray-900 text-white font-medium hover:opacity-90 transition shadow">Start a project</a>
-            <a href="#work" className="px-5 py-3 rounded-full bg-yellow-400 text-gray-900 font-medium hover:shadow-md transition">See our work</a>
+            <a href="#contact" className="px-5 py-3 rounded-full bg-gray-900 text-white font-medium hover:opacity-90 transition shadow">Начать проект</a>
+            <a href="#work" className="px-5 py-3 rounded-full bg-yellow-400 text-gray-900 font-medium hover:shadow-md transition">Наши работы</a>
           </div>
         </div>
       </div>
